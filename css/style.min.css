@@ -891,4 +891,12 @@
   * .footer_links_lang {
     margin-top: 10px;
   }
+}
+@media (hover: none) {
+  * .subheader_btn {
+    background-color: none;
+  }
+  * .promo_btn {
+    background-color: none;
+  }
 }/*# sourceMappingURL=style.min.css.map */
